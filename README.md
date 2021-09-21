@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm KuebV</h1>
 <h3 align="center">Learning Backend Development [Student]</h3>
 
-- 🔭 I’m currently working on **RED**
+- 🔭 I’m currently working on **School & Personal Projects**
 
-- 🌱 I’m currently learning **Rust, and JS**
+- 👯 Collaborating with **Peanut's Laboratory Development & Monarch TSA**
 
-- 👯 Collaborating with **Peanut's Laboratory Devevelopment**
-
-- 💬 Ask me about **Python, MongoDB, C#**
+- 💬 Ask me about **Python, MongoDB, C#, Java**
 
 - 📫 How to reach me **bobwthomp@gmail.com**
 
