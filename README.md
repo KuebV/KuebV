@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **School & Personal Projects**
 
-- 👯 Collaborating with **Peanut's Laboratory Development & Monarch TSA**
+- 👯 Collaborating with **Monarch TSA**
 
 - 💬 Ask me about **Python, MongoDB, C#, Java**
 
