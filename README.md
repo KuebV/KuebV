@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm KuebV</h1>
 <h3 align="center">Learning Backend Development [Student]</h3>
 
-- 🔭 I’m currently working on **School & Personal Projects**
+- 🔧 I’m currently working on **School & Personal Projects**
 
 - 👯 Collaborating with **Monarch TSA**
 
-- 💬 Ask me about **Python, MongoDB, C#, Java**
-
 - 📫 How to reach me **bobwthomp@gmail.com**
+
+Languages I've worked with:
+- C# : 3 Years
+- Java : 2 Years
+- C++ : 1 Year
+- Python : 1 Year
+- R : <6 Months
+- Rust : <2 Months
 
 
 <h3 align="left">Languages and Tools:</h3>
