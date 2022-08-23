@@ -10,10 +10,10 @@
 - Personal Website / Portfolio: [here](https://kuebv.github.io)
 
 Languages I've worked with:
-- C# : 3 Years
-- Java : 2 Years
-- C++ : 1 Year
-- Python : 1 Year
+- C# : 4 Years
+- Java : 3 Years
+- C++ : 2 Year
+- Python : 2 Year
 - R : <6 Months
 - Rust : <2 Months
 
