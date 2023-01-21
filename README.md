@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KuebV</h1>
 <h3 align="center">Learning Backend Development [Student]</h3>
 
-- 🔧 I’m currently working on **Cosmos Multipurpose Plugin using EXILED**
+- 🔧 I’m currently speedrunning Comp Sci 1
 
 - 👯 Collaborating with **SCP: Escape Together**
 
