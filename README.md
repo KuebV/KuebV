@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KuebV</h1>
 <h3 align="center">Learning Backend Development [Student]</h3>
 
-- 🔧 Currently working on Skipt, my interpreted language
+- 🔧 Currently working on [Lunacy Engine](https://github.com/BenApplegate/LunacyEngine)
 
 - 👯 Collaborating with **SCP: Escape Together**
 
